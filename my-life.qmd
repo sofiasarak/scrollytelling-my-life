@@ -1,0 +1,59 @@
+---
+title: "How Did I Get to Where I Am Now?"
+author: "Sofia Sarak"
+format: 
+  closeread-html:
+    remove-header-space: false
+    page-layout: full
+    code-copy: hover
+---
+
+I have always wanted to be a storyteller.
+
+I was born in Stamford, CT to Easter-European immigrant parents. I spent most of my early years in Latvia, until I started Kindergarten in the United States. (make this an overlay over a picture of CT? or me and my family?)
+
+::::{.cr-section layout="sidebar-right"}
+
+@cr-scrollytelling 
+  
+:::{#cr-scrollytelling .body-text-l style="margin-top: 200px; margin-left: 50px;"}
+For most of my life I wanted to be an author. I wrote fiction, poems, and eventually became the Editor-in-Chief of my high school newspaper.
+:::
+
+:::{.body-text-l style="margin-left: 50px;"}
+Picture of me in elementary school! 
+:::
+
+:::{.body-text-l style="margin-left: 50px;"}
+Picture of me in middle school! 
+:::
+
+:::{.body-text-l style="margin-left: 50px;"}
+Picture of me in high school as editor-in-chief! 
+:::
+
+::::
+
+When I started my freshman year at Wesleyan University, I was set on becoming a journalist. I was ready to double major in Economics and Government to prepare me for all of the politics I would be reporting on! (as overlay, with picture of me at Wesleyan).
+
+::::{.cr-section layout="sidebar-right"}
+
+@cr-scrollytelling 
+  
+:::{#cr-scrollytelling .body-text-l style="margin-top: 200px; margin-left: 50px;"}
+It didn't take long for me to realize that the Government track was NOT for me. (this doesn't show up for some reason!)
+:::
+
+:::{.body-text-l style="margin-left: 50px;"}
+I though economics was pretty okay.. 
+:::
+
+:::{.body-text-l style="margin-left: 50px;"}
+After using my second semester of freshman year to take any class I thought was interesting (NYC architecture, Soviet history, etc.), it was my renewable energy class that inspired me the most.
+:::
+
+:::{.body-text-l style="margin-left: 50px;"}
+After that, I realized that what had formerly been a hobby, or special interest -- environmental science -- is something I could legitimatley see myself studying!
+:::
+
+::::
