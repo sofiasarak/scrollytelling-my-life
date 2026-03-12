@@ -1,0 +1,95 @@
+/*-- scss:defaults --*/
+
+// import google fonts
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Manrope:wght@200..800&display=swap');
+
+// fonts
+$bricolage: "Bricolage Grotesque", sans-serif;
+
+// colors
+$darkyellow: #fcc765;
+$mediumgreen: #5a9e6b;
+$lightgreen: #8ed483;
+$cream: #fff9e8ff;
+$lightyellow2: #fcf7d2;
+$lightyellow: #fff2c0ff;
+$darkgreen: #396845ff;
+
+
+// define quarto variables
+$body-bg: $darkgreen;
+$navbar-bg: $darkgreen;
+$navbar-fg: $cream;
+$navbar-hl: $lightyellow;
+$link-color: $lightgreen;
+$body-color: $cream;
+
+/* ── Section Background ──────────────────── */
+.cr-section {
+  background-color: #396845ff;
+  //background-image: url("your-image.jpg");
+  //background-size: cover;
+  color:  #fff9e8ff;
+}
+
+/* ── Sticky Container ────────────────────── */
+.sticky-col-stack {
+  background-color:  #396845ff;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border: 0px solid #e0e0e0;
+}
+
+/* ── Narrative Column ────────────────────── */// rgba(255, 255, 255, 0.85)
+.narrative-col {
+  background-color:  #396845ff;
+  padding: 1.5rem 2rem;
+  border-radius: 8px;
+  max-width: 480px;
+  color:  #fff9e8ff;
+}
+
+// L body text
+.body-text-l {
+  font-size: 20px !important;
+	line-height: 1.9em !important;
+	margin-bottom: 1em !important;
+}
+
+// heading text
+.heading-text {
+  font: $bricolage;
+  color: $lightyellow;
+  font-size: 35px;
+}
+
+#cr-triggers {
+  background-color: #396845ff;
+}
+
+
+/*-- scss:rules --*/
+
+h3, h4, h5, h6 {
+  font-family: $bricolage;
+  color:$darkgreen;
+}
+
+h1, h2 {
+  font-family: $bricolage;
+  color:$darkgreen;
+}
+
+h1, h2 {
+  letter-spacing: 5px;
+  font-weight: 800;
+}
+
+.title{
+  color: $darkgreen;
+}
+
+.center-text {
+  text-align: center;
+}
