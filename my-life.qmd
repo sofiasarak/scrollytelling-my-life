@@ -4,7 +4,9 @@ author: "Sofia Sarak"
 format: 
   closeread-html:
     theme:
-      - styles.scss
+      - styles_scrollytelling.scss
+    cr-style:
+      narrative-background-color-sidebar: "#396845ff"
     remove-header-space: false
     page-layout: full
     code-copy: hover
@@ -48,6 +50,7 @@ Picture of me in high school as editor-in-chief!
 :::{#cr-triggers .body-text-xl .teal-text style="margin-left: 50px;"}
 This is an example of a sticky! As you scroll, this text stays in place until you reach a new section. 
 :::
+
 
 ::::
 
