@@ -35,9 +35,9 @@ $body-color: $cream;
 /* ── Sticky Container ────────────────────── */
 .sticky-col-stack {
   background-color: #396845ff;
-  border-radius: 8px;
+  //border-radius: 8px;
   padding: 2rem;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  //box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
   border: 0px solid #e0e0e0;
 }
 
@@ -45,7 +45,7 @@ $body-color: $cream;
 .narrative-col {
   background-color: #396845ff;
   padding: 1.5rem;
-  border-radius: 8px;
+  //border-radius: 8px;
   max-width: 480px;
   color:  #fff9e8ff;
 }

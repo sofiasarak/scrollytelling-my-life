@@ -6,7 +6,7 @@ format:
     theme:
       - styles_scrollytelling.scss
     cr-style:
-      narrative-background-color-sidebar: "#396845ff"
+      narrative-background-color-sidebar: "#5a9e6b"
     remove-header-space: false
     page-layout: full
     code-copy: hover
@@ -61,6 +61,8 @@ When I started my freshman year at Wesleyan University, I was set on becoming a 
 @cr-scrollytelling 
   
 :::{#cr-scrollytelling .body-text-l style="margin-top: 200px; margin-left: 50px;"}
+
+sample text? not workingggg
 
 :::
 
